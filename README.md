@@ -2,7 +2,7 @@
 
 A sprint-calibrated ML ensemble that predicts the winner of the **2026 Chinese Grand Prix** at Shanghai International Circuit — the first sprint weekend of the 2026 season, run under F1's biggest ever regulation overhaul.
 
-V2 is a major architectural upgrade over the [Australian GP model](https://github.com/BasanthPR/2026-australian-gp-prediction), incorporating every documented failure from V1 and adding a brand-new Tier 0 sprint race feature layer.
+V2 is a major architectural upgrade over the [Australian GP model](https://github.com/BasanthPR/2026-australian-gp-prediction), using every documented failure from V1 and adding a brand-new Tier 0 sprint race feature layer.
 
 ---
 
